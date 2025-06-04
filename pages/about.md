@@ -27,8 +27,6 @@ CollectionBuilder-CSV is a "Stand Alone" template for creating digital collectio
 - a CSV of collection metadata
 - a folder of images, PDFs, audio, or video files
 
-{% include feature/image.html objectid="demo_001" %}
-
 1. Primero
 2. Segundo
 3. Tercero
