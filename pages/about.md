@@ -36,4 +36,3 @@ The resulting static site can be hosted on any basic web server.
 
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
