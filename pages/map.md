@@ -1,6 +1,6 @@
 ---
-title: Map
+title: Lugares de edición de las obras
 layout: map
 permalink: /map.html
 ---
-## Lugares de edición de las obras
+

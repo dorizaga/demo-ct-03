@@ -2,8 +2,8 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Subjects,/subjects.html,
-Locations,/locations.html,Procedencias
-Map,/map.html,
+Locations,/locations.html,
+Lugares de edición,/map.html,Procedencias
 Timeline,/timeline.html,
 Data,/data.html,
 Repositorios,/repositorios,Procedencias
