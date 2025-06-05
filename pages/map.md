@@ -1,5 +1,5 @@
 ---
-title: Lugares de edición de las obras
+title: Place of publication
 layout: map
 permalink: /map.html
 ---

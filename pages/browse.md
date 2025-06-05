@@ -4,6 +4,6 @@ layout: browse
 permalink: /browse.html
 ---
 
-## Buscador
+## Browse
 
-La información aparece en forma de "postcards", una combinación de texto e imágenes. Haz click en la imagen requerida para encontrar la liga al PDF de la obra.
+Click on the image to find the metadata and your link to the texts
