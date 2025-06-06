@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
+About,/about.html,
 Browse,/browse.html,
 Place of publication,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-Repositories,/repositories,
-About,/about.html,
+Academic Stuff,/repositories.html,
